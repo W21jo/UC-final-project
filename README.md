@@ -3,31 +3,16 @@
 <div dir="rtl">
 
 ### اسم الطالب
-
+وضحه باتل المطيري
 
 ### اسم المشروع
-
+coffee store
 
 # شرح الفكرة
 المشكلة والحلول المطروحة إن وجدت
-
+فكرة المشروع موقع يوفر بن وادوات القهوه ومكائن القهوة وكذلك هناك صفحة تشرح عملية معالجة القهوه
 
 # الأعمال المستقبلية
-
+جعل الموقع حقيقي واضاة اليه السله وطرق الدفع
 
 </div>
-
-> Fill out project information in English ⬇️
-### Student Name
-
-
-### Project Name
-
-# Idea
-Problem and solutions if found 
-
-
-# Future Work 
-
-
-
